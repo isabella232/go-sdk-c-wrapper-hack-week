@@ -65,7 +65,7 @@ func OptimizelySDKGetFeatureVariable(feature_name *C.char, variable_key *C.char)
 }
 
 func main() {
-	Init("***REMOVED***", "0x123SomeUserId00")
+	Init("EDmaiYBFz6LByqpm7yS9eJ", "0x123SomeUserId00")
 	enabled := IsFeatureEnabled("is_it_on_feature_key")
 	if enabled == true {
 		fmt.Printf("is_feature_enabled: %b\n", enabled)

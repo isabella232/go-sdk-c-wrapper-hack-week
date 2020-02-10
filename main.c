@@ -23,7 +23,7 @@
 
 int main() {
     /* initialization variables */
-    char *sdkkey = "***REMOVED***";
+    char *sdkkey = "EDmaiYBFz6LByqpm7yS9eJ";
     char *user_id = "0x123SomeUserId00";
 
     /* the feature we're checking */
