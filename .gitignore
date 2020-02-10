@@ -1,2 +1,4 @@
 go-sdk-c-wrapper.h
-go-sdk-c-wrapper.so
+local-go-sdk-c-wrapper.h
+*.so
+test
